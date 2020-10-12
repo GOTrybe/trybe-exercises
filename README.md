@@ -1,3 +1,5 @@
+Antes de tratar sobre esse repositório, gostaria de falar um pouco sobre essa escola maravilhosa que me fez chegar até aqui.
+
 A [**Trybe**](https://www.betrybe.com/) é uma escola que se compromete integralmente ao nosso sucesso e acelera nossa carreira em aproximadamente 12 meses. Com um currículo formatado com contribuições de profissionais e mais de 40 empresas do ecossistema de tecnologia, a escola tem como princípio o ***ensino de qualidade focado na empregabilidade.*** Com aproximadamente *1500 horas*, incluindo aulas online e ao vivo, projetos práticos individuais e em grupo, monitoria técnica com especialistas, conversas sobre carreiras, contato com empresas e o desenvolvimento de soft skills e com um processo seletivo similar ao de processos seletivos de universidades públicas e instituições estrangeiras renomadas, tornando-a uma grande referência na formação de desenvolvedores web full stack. 
 
 ![](/imagens/starwars.webp)
