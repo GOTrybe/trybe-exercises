@@ -8,9 +8,7 @@ Venha conferir nosso [currículo](https://www.betrybe.com/formacao).
 
 ![](/imagens/curriculo.webp)
 
-Estarei utilizando a ferramenta - ***github*** -  para treinar minhas habilidades e familiarizar-se com essa que é uma das ~~maiores~~ **melhor** plataforma online de trabalho colaborativo do mundo. Utilizando esse repositório, com o intuito de aperfeiçoar e aprimorar meu aprendizado, e consequentemente resolver e publicar meus exercícios ao longo do curso. 
-
-![](/imagens/github.webp)
+Estarei utilizando a ferramenta - ***github*** -  para treinar minhas habilidades e familiarizar-se com essa que é uma das ~~maiores~~ **melhor** plataforma online de trabalho colaborativo do mundo. Utilizando esse repositório, com o intuito de aperfeiçoar e aprimorar meu aprendizado, e consequentemente resolver e publicar meus exercícios ao longo do curso.<img src="/imagens/github.webp" height="20", width="20">
 
 #vqv #gotrybe #foguetenãotemré
 
