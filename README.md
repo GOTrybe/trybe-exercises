@@ -10,11 +10,6 @@ A [**Trybe**](https://www.betrybe.com/) é uma escola que se compromete integral
 
 Com aproximadamente *1500 horas* 🕥, incluindo aulas online e ao vivo, projetos práticos individuais e em grupo, monitoria técnica com especialistas, conversas sobre carreiras, contato com empresas e o desenvolvimento de soft skills. Hoje, a escola conta com um processo seletivo similar ao de processos seletivos de universidades públicas e instituições estrangeiras renomadas, o que faz com que seja uma grande referência na formação de desenvolvedores web full stack. 
 
-<img src="/imagens/html5.png" height="30" width="30">
-<img src="/imagens/css3.png" height="30" width="30">
-<img src="/imagens/html5.png" height="30" width="30">
-<img src="/imagens/js.png" height="30" width="30">
-
 ![](/imagens/starwars.webp)
 
 # 🧾 Currículo
