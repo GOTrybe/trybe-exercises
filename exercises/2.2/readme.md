@@ -29,7 +29,7 @@ A proposta para esse bloco foi que ao término, eu ~~estivesse~~ estou 😃 apto
 Inicialmente criamos um arquivo js em nosso diretório, logo após, iniciamos duas nova branchs ***javascript-changes*** e ***javascript-update***, iniciamos um *pull request* em ambas as situações e modificamos os arquivos, tratamos o conflito, pois as alterações envolviam linhas de códigos idênticas e enviamos nossas alterações para nossos colegas para o *code review*. Congratulations!🎖️
 
 # Conclusão
-Apesar de simples, essa atividade foi de extrema importância, pois, esse tipo de tarefa vai nos acompanhar durante todo o curso e em nossa carreiras, assim como percebi como é importante está trabalhando e ter seu resultado sendo revisto por nossos colegas. 
+Apesar de simples, essa atividade foi de extrema importância, já que, esse tipo de tarefa vai nos acompanhar durante todo o curso e em nossa carreiras, assim como percebi como é importante está trabalhando e ter seu resultado sendo revisto por nossos colegas. 
 
 
 
